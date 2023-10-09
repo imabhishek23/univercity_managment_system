@@ -1,0 +1,40 @@
+body{
+    padding: 0ch;
+    background-image:url("lpu2.jpg");
+    background-size:cover;
+    
+   
+}
+.loginbox{
+    width: 225px;
+    height: 320px;
+    color: pink;
+    background: #000;
+    top: 50%;
+    left: 40%;
+    position:absolute;
+    box-sizing:border-box;
+    padding: 70px 30px;
+    margin-top: -35px;
+
+
+
+
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    top: -10%;
+    left: calc(50% - 50px);
+    
+}
+input[type="submit"]:hover
+{
+    color: red;
+    text-align: center;
+    border-top: 20px;
+   
+}
+

@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    color:red;
+    font-family: Redressed;
+    
+    font-weight: 500;
+    
+}
+
+    
+nav a{
+    text-align: center;
+   color:red;
+    padding: 40px;
+  
+   
+}
+nav :hover{
+    color: green;
+}
+section{
+    text-align: center;
+}
+body{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+h2{
+    color: red;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+
+}
+.container{
+    background-color:lightgray;
+    border: 12px solid lightgray;
+    padding: 12px;
+}
+
+input[type="submit"]{
+    background-color:green;
+    border:12px solid green;
+    cursor:pointer;
+}
+input[type="reset"]{
+    background-color: red;
+    border:12px red;
+    cursor: pointer;
+}
